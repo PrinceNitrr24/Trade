@@ -1,6 +1,7 @@
 # 📈 Trading Dashboard
 
 A real-time trading dashboard built with Next.js  app router, TypeScript, and Tailwind CSS. It simulates stock orders, filtering, sorting, modifying, and cancelling orders.
+Project live URL = http://trade-black-alpha.vercel.app/
 
 ## 🚀 Features
 
